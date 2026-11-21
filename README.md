@@ -3,6 +3,8 @@
 ## Team Members
 
 - **Muhammad Abdul Rafay Mobin Syed** (40299024)
+- **Adam Benchekroun** (40306874)
+- **Abderrahmane Bensassi-Nour** (40317017)
 
 
 This repository contains our code for the COMP 472 Kaggle project. The project has two classification tasks:
