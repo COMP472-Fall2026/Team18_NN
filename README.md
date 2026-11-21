@@ -1,5 +1,10 @@
 # COMP 472 Project (Fall 2026) · Team 18
 
+## Team Members
+
+- **Muhammad Abdul Rafay Mobin Syed** (40299024)
+
+
 This repository contains our code for the COMP 472 Kaggle project. The project has two classification tasks:
 
 * **Image:** 500 features per image, 50 classes, 20,000 training examples.
